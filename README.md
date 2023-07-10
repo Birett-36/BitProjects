@@ -1,2 +1,1 @@
-# Project
-It's a......
+This is a codespace!
